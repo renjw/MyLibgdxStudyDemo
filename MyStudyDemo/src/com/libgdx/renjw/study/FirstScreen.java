@@ -5,6 +5,8 @@ import com.badlogic.gdx.Screen;
 public class FirstScreen implements Screen
 {
     
+    MyGdxGame myGdxGame;
+    
     @Override
     public void render(float delta)
     {
